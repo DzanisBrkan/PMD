@@ -1,0 +1,296 @@
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.Model.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csprojAssemblyReference.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.AssemblyInfoInputs.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.AssemblyInfo.cs
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.exe
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.deps.json
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.runtimeconfig.json
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.runtimeconfig.dev.json
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.Model.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csproj.CopyComplete
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProdajaMobilnihAplikacija.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProdajaMobilnihAplikacija.WebAPI.StaticWebAssets.xml
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.genruntimeconfig.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Flurl.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Flurl.Http.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.exe
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.deps.json
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.runtimeconfig.json
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.runtimeconfig.dev.json
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.pdb
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Flurl.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Flurl.Http.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.Model.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.Model.pdb
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csprojAssemblyReference.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.AssemblyInfoInputs.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.AssemblyInfo.cs
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.RazorTargetAssemblyInfo.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csproj.CopyComplete
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProdajaMobilnihAplikacija.WebAPI.StaticWebAssets.Manifest.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProdajaMobilnihAplikacija.WebAPI.StaticWebAssets.xml
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.pdb
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.genruntimeconfig.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csproj.CoreCompileInputs.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.exe
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.deps.json
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.runtimeconfig.json
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.runtimeconfig.dev.json
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.pdb
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Flurl.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Flurl.Http.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.Model.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.Model.pdb
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csprojAssemblyReference.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.AssemblyInfoInputs.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.AssemblyInfo.cs
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csproj.CoreCompileInputs.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProdajaMobilnihAplikacija.WebAPI.StaticWebAssets.Manifest.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProdajaMobilnihAplikacija.WebAPI.StaticWebAssets.xml
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProdajaMobilnihAplikacija.WebAPI.styles.css
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.RazorTargetAssemblyInfo.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csproj.CopyComplete
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.pdb
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.genruntimeconfig.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.exe
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.deps.json
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.runtimeconfig.json
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.runtimeconfig.dev.json
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Flurl.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Flurl.Http.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.Model.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\bin\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.Model.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csproj.AssemblyReference.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.AssemblyInfoInputs.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.AssemblyInfo.cs
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csproj.CoreCompileInputs.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProdajaMobilnihAplikacija.WebAPI.StaticWebAssets.Manifest.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProdajaMobilnihAplikacija.WebAPI.StaticWebAssets.xml
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProdajaMobilnihAplikacija.WebAPI.styles.css
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.RazorTargetAssemblyInfo.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.csproj.CopyComplete
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WebAPI\obj\Debug\netcoreapp3.1\ProdajaMobilnihAplikacija.WebAPI.genruntimeconfig.cache

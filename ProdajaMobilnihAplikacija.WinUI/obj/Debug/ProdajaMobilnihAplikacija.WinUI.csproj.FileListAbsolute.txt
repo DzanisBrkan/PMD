@@ -1,0 +1,168 @@
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.exe.config
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.exe
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csprojAssemblyReference.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Properties.Resources.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.GenerateResource.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.exe
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Pocetna.frmPocetna.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Pocetna.frmPocetnaAdmin.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Login.frmLogin.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmPregledSoftvera.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmGrad.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmKategorija.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmZaposlenik.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.Ocjene.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Settings.frmSettings.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmAnaliza.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmKlijent.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmRacun.resources
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.Model.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\System.ValueTuple.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.Model.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.xml
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\System.ValueTuple.xml
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.CopyComplete
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csprojAssemblyReference.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmGrad.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmGradDetalji.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmKategorija.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmKategorijaDetalji.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmOcjenaDetalji.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmZaposlenikDetalji.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmAnalizaDetalji.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmDetaljiSoftvera.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmDodajSoftver.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmKlijentDetalji.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmZaposlenik.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.Ocjene.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Login.frmLogin.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Pocetna.frmPocetna.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Pocetna.frmPocetnaAdmin.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Properties.Resources.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Settings.frmSettings.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmAnaliza.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmKlijent.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmPregledSoftvera.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmRacun.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmRacunDetalji.resources
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.GenerateResource.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.CoreCompileInputs.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.exe
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.pdb
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.exe.config
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.exe
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.pdb
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.Http.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Newtonsoft.Json.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.Model.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\System.ValueTuple.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.Model.pdb
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.xml
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.Http.xml
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Newtonsoft.Json.xml
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\System.ValueTuple.xml
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.CopyComplete
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.xml
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.exe.config
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.exe
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.pdb
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.Http.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Newtonsoft.Json.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.Model.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\System.ValueTuple.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.Model.pdb
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.xml
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.xml
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.Http.xml
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Newtonsoft.Json.xml
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\System.ValueTuple.xml
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csprojAssemblyReference.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmGrad.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmGradDetalji.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmKategorija.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmKategorijaDetalji.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmOcjenaDetalji.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmZaposlenikDetalji.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmAnalizaDetalji.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmDetaljiSoftvera.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmDodajSoftver.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmKlijentDetalji.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmZaposlenik.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.Ocjene.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Login.frmLogin.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Pocetna.frmPocetna.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Pocetna.frmPocetnaAdmin.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Properties.Resources.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Settings.frmSettings.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmAnaliza.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmKlijent.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmPregledSoftvera.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmRacun.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmRacunDetalji.resources
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.GenerateResource.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.CoreCompileInputs.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.CopyComplete
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.exe
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.exe.config
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.exe
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.WinUI.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.Http.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Newtonsoft.Json.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.Model.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\System.ValueTuple.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\ProdajaMobilnihAplikacija.Model.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.xml
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.xml
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Flurl.Http.xml
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\Newtonsoft.Json.xml
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\bin\Debug\System.ValueTuple.xml
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.AssemblyReference.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmGrad.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmGradDetalji.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmKategorija.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmKategorijaDetalji.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmOcjenaDetalji.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmZaposlenikDetalji.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmAnalizaDetalji.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmDetaljiSoftvera.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmDodajSoftver.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmKlijentDetalji.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.frmZaposlenik.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Admin.Ocjene.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Login.frmLogin.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Pocetna.frmPocetna.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Pocetna.frmPocetnaAdmin.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Properties.Resources.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Settings.frmSettings.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmAnaliza.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmKlijent.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmPregledSoftvera.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmRacun.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.Zaposlenik.frmRacunDetalji.resources
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.GenerateResource.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.CoreCompileInputs.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.csproj.CopyComplete
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.exe
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.WinUI\obj\Debug\ProdajaMobilnihAplikacija.WinUI.AdminEmployee.resources

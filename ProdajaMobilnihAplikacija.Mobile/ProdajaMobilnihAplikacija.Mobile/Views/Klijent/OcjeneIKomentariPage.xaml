@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProdajaMobilnihAplikacija.Mobile.Views.Klijent.OcjeneIKomentariPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+
+
+
+    <StackLayout>
+        <Label TextColor="#aa0300" FontAttributes="Bold" Text="Prikaz vozila:" FontSize="Title" HorizontalOptions="Center" />
+
+
+        <ListView ItemsSource="{Binding OcjenaList}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell >
+                        <StackLayout Padding="10" Orientation="Vertical">
+
+                            <Label HorizontalTextAlignment="Center" TextColor="#aa0300" Text="{Binding ocjena}"
+                                       LineBreakMode="NoWrap"
+                                       Style="{DynamicResource ListItemTextStyle}"
+                                       FontSize="16" />
+
+                            <StackLayout Orientation="Vertical">
+                                <Label HorizontalTextAlignment="Center" TextColor="#aa0300" Text="{Binding Komentar}"
+                                       LineBreakMode="NoWrap"
+                                       Style="{DynamicResource ListItemTextStyle}"
+                                       FontSize="16" />
+
+                            </StackLayout>
+
+                            <StackLayout Orientation="Vertical">
+                                <Label HorizontalTextAlignment="Center" TextColor="#aa0300" Text="RegistracijskiBroj" FontAttributes="Bold"/>
+                                <Entry HorizontalTextAlignment="Center" Text="{Binding RegistracijskiBroj}" IsReadOnly="True"/>
+
+                                <Label HorizontalTextAlignment="Center" TextColor="#aa0300" Text="BrSjedista" FontAttributes="Bold"/>
+                                <Entry HorizontalTextAlignment="Center" Text="{Binding BrSjedista}" IsReadOnly="True"/>
+
+
+                                <Label HorizontalTextAlignment="Center" TextColor="#aa0300" Text="BrVrata" FontAttributes="Bold"/>
+                                <Entry HorizontalTextAlignment="Center" Text="{Binding BrVrata}" IsReadOnly="True"/>
+
+
+                                <Label HorizontalTextAlignment="Center" TextColor="#aa0300" Text="ZapreminaPrtljaznika" FontAttributes="Bold"/>
+                                <Entry HorizontalTextAlignment="Center" Text="{Binding ZapreminaPrtljaznika}" IsReadOnly="True"/>
+
+
+                                <Label HorizontalTextAlignment="Center" TextColor="#aa0300" Text="CijenaPoSatu" FontAttributes="Bold"/>
+                                <Entry HorizontalTextAlignment="Center" Text="{Binding CijenaPoSatu}" IsReadOnly="True"/>
+
+                            </StackLayout>
+
+
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

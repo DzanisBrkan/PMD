@@ -1,0 +1,37 @@
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.deps.json
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.csprojAssemblyReference.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.AssemblyInfoInputs.cache
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.AssemblyInfo.cs
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.dll
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.pdb
+C:\Users\KeeN\source\repos\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.csproj.CoreCompileInputs.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.deps.json
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.pdb
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.csprojAssemblyReference.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.AssemblyInfoInputs.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.AssemblyInfo.cs
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.csproj.CoreCompileInputs.cache
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.dll
+D:\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.pdb
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.deps.json
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.pdb
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.csprojAssemblyReference.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.AssemblyInfoInputs.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.AssemblyInfo.cs
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.csproj.CoreCompileInputs.cache
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.dll
+D:\PC (late 2020)\PC seminarski\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.deps.json
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.AssemblyInfoInputs.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.AssemblyInfo.cs
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.csproj.CoreCompileInputs.cache
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.dll
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.pdb
+D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.csproj.AssemblyReference.cache
