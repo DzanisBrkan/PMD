@@ -8951,11 +8951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.UWP\\ProdajaMobilnihAplikacija.Mobile.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.UWP\\ProdajaMobilnihAplikacija.Mobile.UWP.csproj",
       "projectName": "ProdajaMobilnihAplikacija.Mobile.UWP",
-      "projectPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.UWP\\ProdajaMobilnihAplikacija.Mobile.UWP.csproj",
+      "projectPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.UWP\\ProdajaMobilnihAplikacija.Mobile.UWP.csproj",
       "packagesPath": "C:\\Users\\KeeN\\.nuget\\packages\\",
-      "outputPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.UWP\\obj\\",
+      "outputPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8979,8 +8979,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj": {
-              "projectPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj"
+            "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj": {
+              "projectPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj"
             }
           }
         }

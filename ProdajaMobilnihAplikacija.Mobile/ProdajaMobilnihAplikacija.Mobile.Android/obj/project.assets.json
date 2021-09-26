@@ -2265,11 +2265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.Android\\ProdajaMobilnihAplikacija.Mobile.Android.csproj",
+      "projectUniqueName": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.Android\\ProdajaMobilnihAplikacija.Mobile.Android.csproj",
       "projectName": "ProdajaMobilnihAplikacija.Mobile.Android",
-      "projectPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.Android\\ProdajaMobilnihAplikacija.Mobile.Android.csproj",
+      "projectPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.Android\\ProdajaMobilnihAplikacija.Mobile.Android.csproj",
       "packagesPath": "C:\\Users\\KeeN\\.nuget\\packages\\",
-      "outputPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.Android\\obj\\",
+      "outputPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2292,8 +2292,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj": {
-              "projectPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj"
+            "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj": {
+              "projectPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj"
             }
           }
         }

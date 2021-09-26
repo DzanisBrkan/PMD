@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2MIs/x9n2fHhmgeEgzIB/I41swnUOtvaLm22N8b8WdEMlAFe7e/NoXCdj2aYx7TS/u8JvxdYeJZ7jM4G5sPqwQ==",
+  "dgSpecHash": "yOW+UghHP+hJNdy5mwqVMhjvXN9L34gqnGWWLINkva9i1hcH4nox90CEvG492vROl8/HWL3eGyIoYmcWGU6ipQ==",
   "success": true,
-  "projectFilePath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.WebAPI\\ProdajaMobilnihAplikacija.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.WebAPI\\ProdajaMobilnihAplikacija.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KeeN\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\KeeN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

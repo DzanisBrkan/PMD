@@ -1548,11 +1548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.iOS\\ProdajaMobilnihAplikacija.Mobile.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.iOS\\ProdajaMobilnihAplikacija.Mobile.iOS.csproj",
       "projectName": "ProdajaMobilnihAplikacija.Mobile.iOS",
-      "projectPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.iOS\\ProdajaMobilnihAplikacija.Mobile.iOS.csproj",
+      "projectPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.iOS\\ProdajaMobilnihAplikacija.Mobile.iOS.csproj",
       "packagesPath": "C:\\Users\\KeeN\\.nuget\\packages\\",
-      "outputPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.iOS\\obj\\",
+      "outputPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1575,8 +1575,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj": {
-              "projectPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj"
+            "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj": {
+              "projectPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.csproj"
             }
           }
         }

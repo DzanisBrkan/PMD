@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.WebAPI\\ProdajaMobilnihAplikacija.WebAPI.csproj": {}
+    "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.WebAPI\\ProdajaMobilnihAplikacija.WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj": {
+    "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj",
+        "projectUniqueName": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj",
         "projectName": "ProdajaMobilnihAplikacija.Model",
-        "projectPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj",
+        "projectPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj",
         "packagesPath": "C:\\Users\\KeeN\\.nuget\\packages\\",
-        "outputPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Model\\obj\\",
+        "outputPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -83,14 +83,14 @@
         }
       }
     },
-    "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.WebAPI\\ProdajaMobilnihAplikacija.WebAPI.csproj": {
+    "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.WebAPI\\ProdajaMobilnihAplikacija.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.WebAPI\\ProdajaMobilnihAplikacija.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.WebAPI\\ProdajaMobilnihAplikacija.WebAPI.csproj",
         "projectName": "ProdajaMobilnihAplikacija.WebAPI",
-        "projectPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.WebAPI\\ProdajaMobilnihAplikacija.WebAPI.csproj",
+        "projectPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.WebAPI\\ProdajaMobilnihAplikacija.WebAPI.csproj",
         "packagesPath": "C:\\Users\\KeeN\\.nuget\\packages\\",
-        "outputPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -113,8 +113,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj": {
-                "projectPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj"
+              "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj": {
+                "projectPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj"
               }
             }
           }

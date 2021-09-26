@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GsUjpzg0Hda2qvVA3VrWf508ouOsjeK1nEllvQjAHvXF4LOza4cwxWsCwyCkqe9jNbb3bKsjOmcvGFX/Gb6mlw==",
+  "dgSpecHash": "FYTPjLHx334TF+5oFdTWuuUhlABMHYEygLUC/cC4utkzI+pO/VaXT1XrAqImmAg6KwIBBJ/NX7I9uAO5BhxNfg==",
   "success": true,
-  "projectFilePath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.iOS\\ProdajaMobilnihAplikacija.Mobile.iOS.csproj",
+  "projectFilePath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.iOS\\ProdajaMobilnihAplikacija.Mobile.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KeeN\\.nuget\\packages\\flurl\\2.8.1\\flurl.2.8.1.nupkg.sha512",
     "C:\\Users\\KeeN\\.nuget\\packages\\flurl.http\\2.4.1\\flurl.http.2.4.1.nupkg.sha512",

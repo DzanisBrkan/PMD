@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0zfZeZzsBYYphs/TRqqQls2W06b6jJLZxW6awEDcLF8wMYm133hmRXEiiE9hqFhka8Y6uqVPMKOHxusyE+fPJQ==",
+  "dgSpecHash": "G5Ddbtcf2Qt3NRlRGGULraBirrQI1iruKPs+oeoDK7kZE3FUbWUrE5LPvljw4vViNuS8Fx4ZkXIANWO6LGZwAQ==",
   "success": true,
-  "projectFilePath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.Android\\ProdajaMobilnihAplikacija.Mobile.Android.csproj",
+  "projectFilePath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Mobile\\ProdajaMobilnihAplikacija.Mobile.Android\\ProdajaMobilnihAplikacija.Mobile.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KeeN\\.nuget\\packages\\flurl\\2.8.1\\flurl.2.8.1.nupkg.sha512",
     "C:\\Users\\KeeN\\.nuget\\packages\\flurl.http\\2.4.1\\flurl.http.2.4.1.nupkg.sha512",

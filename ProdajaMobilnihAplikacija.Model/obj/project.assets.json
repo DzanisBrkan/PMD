@@ -456,11 +456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj",
+      "projectUniqueName": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj",
       "projectName": "ProdajaMobilnihAplikacija.Model",
-      "projectPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj",
+      "projectPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Model\\ProdajaMobilnihAplikacija.Model.csproj",
       "packagesPath": "C:\\Users\\KeeN\\.nuget\\packages\\",
-      "outputPath": "D:\\ZavrsniRad\\ProdajaMobilnihAplikacija\\ProdajaMobilnihAplikacija.Model\\obj\\",
+      "outputPath": "C:\\Users\\KeeN\\Desktop\\PMD\\ProdajaMobilnihAplikacija.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

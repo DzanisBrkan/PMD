@@ -20,6 +20,7 @@ namespace ProdajaMobilnihAplikacija.WinUI
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new frmPocetna());
             //Application.Run(new frmPocetnaAdmin());
+            //komentar
             Application.Run(new AdminEmployee());
 
         }
