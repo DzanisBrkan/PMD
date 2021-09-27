@@ -35,3 +35,13 @@ D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debu
 D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.dll
 D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.pdb
 D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.csproj.AssemblyReference.cache
+C:\Users\KeeN\Desktop\PMD\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.deps.json
+C:\Users\KeeN\Desktop\PMD\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.dll
+C:\Users\KeeN\Desktop\PMD\ProdajaMobilnihAplikacija.Model\bin\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.pdb
+C:\Users\KeeN\Desktop\PMD\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.csproj.AssemblyReference.cache
+C:\Users\KeeN\Desktop\PMD\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KeeN\Desktop\PMD\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.AssemblyInfoInputs.cache
+C:\Users\KeeN\Desktop\PMD\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.AssemblyInfo.cs
+C:\Users\KeeN\Desktop\PMD\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.csproj.CoreCompileInputs.cache
+C:\Users\KeeN\Desktop\PMD\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.dll
+C:\Users\KeeN\Desktop\PMD\ProdajaMobilnihAplikacija.Model\obj\Debug\netstandard2.0\ProdajaMobilnihAplikacija.Model.pdb

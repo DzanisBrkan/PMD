@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:ProdajaMobilnihAplikacija.Mobile.Converters" xmlns:viewModels="clr-namespace:ProdajaMobilnihApplikacija.Mobile.ViewModels.Klijent"
+             x:Class="ProdajaMobilnihApplikacija.Mobile.Views.Klijent.PostavkeProfilaPage">
+
+    <ContentPage.BindingContext>
+        <viewModels:PostavkeProfilaViewModel></viewModels:PostavkeProfilaViewModel>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:ImageConverter x:Key="imgConv"></local:ImageConverter>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <ScrollView  VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+
+
+
+                <StackLayout Padding="10" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+
+                    <StackLayout >
+                        <Image Margin="0,100,0,70" HeightRequest="90" WidthRequest="90" Source="{Binding SlikaThumb, Converter={StaticResource imgConv}}">
+
+                            <!--<Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"></TapGestureRecognizer>
+                            </Image.GestureRecognizers>-->
+
+                        </Image>
+                    </StackLayout>
+
+
+
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Ime" FontAttributes="Bold"/>
+                        <Entry x:Name="Ime" Text="{Binding Ime}" />
+                    </StackLayout>
+
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Username" FontAttributes="Bold"/>
+                        <Entry x:Name="Username" Text="{Binding Username}" />
+                    </StackLayout>
+
+
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Prezime" FontAttributes="Bold"/>
+                        <Entry x:Name="Prezime" Text="{Binding Prezime}" />
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Broj telefona" FontAttributes="Bold"/>
+                        <Entry x:Name="BrojTel" Text="{Binding BrojTel}"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Email" FontAttributes="Bold"/>
+                        <Entry x:Name="Email" Text="{Binding Email}"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Adresa" FontAttributes="Bold"/>
+                        <Entry x:Name="Adresa" Text="{Binding Adresa}"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Datum rodjenja" FontAttributes="Bold"/>
+                        <Entry x:Name="DatumRodjenja" Text="{Binding DatumRodjenja}" Placeholder="" />
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Grad" FontAttributes="Bold"/>
+                        <!--<Entry x:Name="Grad" Text="{Binding Grad}" Placeholder="" />-->
+                        <Picker ItemsSource="{Binding GradList}" SelectedItem="{Binding SelectedGrad}" ItemDisplayBinding="{Binding Naziv}"></Picker>
+                    </StackLayout>
+
+
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Password" FontAttributes="Bold"/>
+                        <Entry x:Name="Password" Text="{Binding Password}" Placeholder="Unesite novi password" IsPassword="True"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Potvrda password-a" FontAttributes="Bold"/>
+                        <Entry x:Name="PasswordConfirmation" Text="{Binding PasswordConfirmation}" Placeholder="Potvrda passworda mora biti ista kao i password" IsPassword="True"/>
+                    </StackLayout>
+
+
+                    <Button Margin="15" WidthRequest="50" HeightRequest="35" BackgroundColor="LimeGreen" TextColor="White" Text="Spasi promjene" Command="{Binding SaveChangesCommand}"/>
+
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
