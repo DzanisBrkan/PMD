@@ -1,1 +1,0 @@
-D:\ZavrsniRad\ProdajaMobilnihAplikacija\ProdajaMobilnihAplikacija.Mobile\ProdajaMobilnihAplikacija.Mobile.UWP\ProdajaMobilnihAplikacija.Mobile.UWP.csproj;x86
